@@ -1,0 +1,11 @@
+[package]
+name = "aurene"
+version = "0.1.0"
+authors = ["Yong Wen Chua <lawliet89@users.noreply.github.com>"]
+edition = "2018"
+
+[dependencies]
+app_dirs = "1.2"
+clap = "2.32.0"
+failure = "0.1"
+glob = "0.2"
